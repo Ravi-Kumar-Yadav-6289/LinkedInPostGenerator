@@ -86,4 +86,4 @@ def preProcess(raw_file, processed_file=None):
 
 
 if __name__=="__main__":
-    preProcess(r"D:\LLMs\groc\data\raw_data.json",r"D:\LLMs\groc\data\pre_processed_data.json")
+    preProcess(r"data\raw_data.json",r"data\pre_processed_data.json")
